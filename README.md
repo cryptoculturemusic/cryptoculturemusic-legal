@@ -7,4 +7,7 @@ This repository is strictly for hosting the legal and compliance documents requi
 
 ## Operational Notes
 * **Hosting:** Served via GitHub Pages.
-* **License:** None (All Rights Reserved). These documents are proprietary business contracts, not open-source templates.
+* **License:** None (All Rights Reserved).<br>
+* Contact: cryptoculturemusic@gmail.com <br>
+* Social: https://linktr.ee/CryptoCultureMusic
+* These documents are proprietary business contracts, not open-source templates.<br>
